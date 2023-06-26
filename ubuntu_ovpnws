@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script Variables
-HOST='68.168.211.135';
+HOST='';
 USER='freemoso_noakhalivipxyz';
 PASS='noakhalivipxyz123';
 DBNAME='freemoso_noakhalivipxyz';
